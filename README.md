@@ -1,2 +1,2 @@
 # SQL-projects
-Se trata de proyectos de entrenamiento ejecutados en la plataforma DataCamp
+These are training projects executed on the DataCamp platform
